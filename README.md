@@ -6,3 +6,5 @@
 ## TOC
 
 - [The Y Combinator](https://github.com/CookiePieWw/paper-reading/discussions/7)
+
+- [从 ADL 到 CPO 和 Niebloids](https://github.com/CookiePieWw/paper-reading/discussions/8)
