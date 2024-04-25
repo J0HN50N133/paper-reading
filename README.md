@@ -10,3 +10,5 @@
 - [从 ADL 到 CPO 和 Niebloids](https://github.com/CookiePieWw/paper-reading/discussions/8)
 
 - [多态](https://github.com/CookiePieWw/paper-reading/discussions/9)
+
+- [列存格式的评估](https://github.com/CookiePieWw/paper-reading/discussions/10)
