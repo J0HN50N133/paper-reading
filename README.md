@@ -12,3 +12,5 @@
 - [多态](https://github.com/CookiePieWw/paper-reading/discussions/9)
 
 - [列存格式的评估](https://github.com/CookiePieWw/paper-reading/discussions/10)
+
+- [XRP: In-Kernel Storage Functions with eBPF](https://github.com/CookiePieWw/paper-reading/discussions/11)
