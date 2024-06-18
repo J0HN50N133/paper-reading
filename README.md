@@ -14,3 +14,5 @@
 - [列存格式的评估](https://github.com/CookiePieWw/paper-reading/discussions/10)
 
 - [XRP: In-Kernel Storage Functions with eBPF](https://github.com/CookiePieWw/paper-reading/discussions/11)
+
+- [GFS, MapReduce and Bigtable](https://github.com/CookiePieWw/paper-reading/discussions/12)
