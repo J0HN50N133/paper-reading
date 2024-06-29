@@ -11,7 +11,7 @@
 
 - [多态](https://github.com/CookiePieWw/paper-reading/discussions/9)
 
-- [列存格式的评估](https://github.com/CookiePieWw/paper-reading/discussions/10)
+- [PVLDB'23-An Empirical Evaluation of Columnar Storage Formats](https://github.com/CookiePieWw/paper-reading/discussions/10)
 
 - [OSDI'22-XRP: In-Kernel Storage Functions with eBPF](https://github.com/CookiePieWw/paper-reading/discussions/11)
 
