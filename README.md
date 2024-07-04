@@ -16,3 +16,5 @@
 - [OSDI'22-XRP: In-Kernel Storage Functions with eBPF](https://github.com/CookiePieWw/paper-reading/discussions/11)
 
 - [GFS, MapReduce and Bigtable](https://github.com/CookiePieWw/paper-reading/discussions/12)
+
+- [Memory Models](https://github.com/CookiePieWw/paper-reading/discussions/13)
