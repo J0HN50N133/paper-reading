@@ -18,3 +18,5 @@
 - [GFS, MapReduce and Bigtable](https://github.com/CookiePieWw/paper-reading/discussions/12)
 
 - [Memory Models](https://github.com/CookiePieWw/paper-reading/discussions/13)
+
+- [Testing Database Engines via Pivoted Query Synthesis](https://github.com/J0HN50N133/paper-reading/discussions/1)
